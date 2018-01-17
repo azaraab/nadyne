@@ -99,7 +99,7 @@
 		<div class="navbar-wrapper navbar-light bg-light" role="navigation">
 			<div class="container">
 				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-backyard"> <span class="sr-only">Toggle navigation</span>
-&#x2630;</button> <a class="navbar-brand site-name" href="#top"><img src="images/logo2.png" alt="logo"></a>
+&#x2630;</button> <a class="navbar-brand site-name" href="#top"><img src="images/logo.png" alt="logo"></a>
 				<div id="navbar-scroll" class="collapse navbar-collapse navbar-backyard ml-auto">
 					<ul class="nav navbar-nav">
 						<li><a href="#intro" class="nav-link">About</a>
@@ -449,17 +449,17 @@
 							<div class="client-pic text-center">
 
 								<!-- /.client photo -->
-								<img src="images/testi1.png" alt="client">
+								<img src="images/db76dba5-fd6d-4e55-ba78-41cb8f221574_1.829309a87bd1fcbd7293f6480ff0af96.jpeg" alt="client">
 							</div>
 							<div class="box">
 
 								<!-- /.testimonial content -->
-								<p class="message text-center">"We are very happy and satisfied with Backyard service. Our account manager is efficient and very knowledgeable. It was able to create a vast fan base within very short period of time. We would highly recommend Backyard App to anyone."</p>
+								<p class="message text-center">"We are very happy and satisfied with Nadyne Design service.Manager is efficient and very knowledgeable. It was able to create a vast fan base within very short period of time. We would highly recommend Nadyne Designs to anyone."</p>
 							</div>
 							<div class="client-info text-center">
 
 								<!-- /.client name -->
-								Jennifer Lopez, <span class="company">Microsoft</span>
+								Sichangi, <span class="company">Fringe Tech</span>
 							</div>
 						</div>
 
@@ -468,7 +468,7 @@
 							<div class="client-pic text-center">
 
 								<!-- /.client photo -->
-								<img src="images/testi2.png" alt="client">
+								<img src="images/living 7.jpg" alt="client">
 							</div>
 							<div class="box">
 
@@ -478,7 +478,7 @@
 							<div class="client-info text-center">
 
 								<!-- /.client name -->
-								Mike Portnoy, <span class="company">Dream Theater</span>
+								David Rashid, <span class="company">Fringe Tech</span>
 							</div>
 						</div>
 
@@ -487,7 +487,7 @@
 							<div class="client-pic text-center">
 
 								<!-- /.client photo -->
-								<img src="images/testi3.png" alt="client">
+								<img src="images/Living-Room-Curtain-Ideas-M.jpg" alt="client">
 							</div>
 							<div class="box">
 
@@ -497,7 +497,7 @@
 							<div class="client-info text-center">
 
 								<!-- /.client name -->
-								Jennifer Love Hewitt, <span class="company">Lead Vocal</span>
+								James, <span class="company">FringeTech</span>
 							</div>
 						</div>
 
@@ -509,7 +509,7 @@
 
 	<!-- /.contact section -->
 	<div id="contact">
-		<div class="contact fullscreen parallax" style="background-image:url('images/bg.jpg');" data-img-width="2000" data-img-height="1334" data-diff="100">
+		<div class="contact fullscreen parallax" style="background-image:url('images/living 11.jpg');" data-img-width="2000" data-img-height="1334" data-diff="100">
 			<div class="overlay">
 				<div class="container">
 					<div class="row">
@@ -519,14 +519,14 @@
 							<div class="col-lg-5 contact-left wow fadeInUp">
 								<h2><span class="highlight">Get</span> in touch</h2>
 								<ul class="ul-address">
-									<li><i class="pe-7s-map-marker"></i>1600 Amphitheatre Parkway, Mountain View</br>
-										California 55000
+									<li><i class="pe-7s-map-marker"></i>Nakuru</br>
+										Olive Kiamunyi
 									</li>
-									<li><i class="pe-7s-phone"></i>+1 (123) 456-7890</br>
-										+2 (123) 456-7890
+									<li><i class="pe-7s-phone"></i>0717499791</br>
+										+254717499791
 									</li>
-									<li><i class="pe-7s-mail"></i><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-									<li><i class="pe-7s-look"></i><a href="#">www.yoursite.com</a></li>
+									<li><i class="pe-7s-mail"></i><a href="mailto:beckydoris@gmail.com">beckydoris@gmail.com</a></li>
+									<li><i class="pe-7s-look"></i><a href="#">www.Nadyne Designs.com</a></li>
 								</ul>
 
 							</div>
@@ -569,7 +569,7 @@
 							<li><a class="wow fadeInUp" href="https://instagram.com/" data-wow-delay="0.6s"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 					</div>
-					<div class="text-center wow fadeInUp" style="font-size: 14px;">Copyright Backyard 2017 - Template by <a href="https://bootstrapthemes.co" target="_blank">https://bootstrapthemes.co</a></div>
+					<div class="text-center wow fadeInUp" style="font-size: 14px;">Copyright Nadyne Designs 2018 - website by <a href="https://bootstrapthemes.co" target="_blank">azaraab.github.io</a></div>
 					<a href="#" class="scrollToTop"><i class="pe-7s-up-arrow pe-va"></i></a>
 				</div>
 			</div>
